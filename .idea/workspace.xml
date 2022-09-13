@@ -18,6 +18,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -26,12 +27,8 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="dongs" />
-                    <option name="lastUsedInstant" value="1663046344" />
-                  </RecentBranch>
-                  <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1663046343" />
+                    <option name="branchName" value="feature/fix" />
+                    <option name="lastUsedInstant" value="1663045499" />
                   </RecentBranch>
                 </list>
               </option>
@@ -69,6 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1663043062081</updated>
       <workItem from="1663043064074" duration="172000" />
+      <workItem from="1663045460310" duration="382000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1663043144964</created>
@@ -77,14 +75,6 @@
       <option name="project" value="LOCAL" />
       <updated>1663043144964</updated>
     </task>
-    <task id="LOCAL-00002" summary="Edit">
-      <created>1663046318682</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1663046318682</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +93,5 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <MESSAGE value="Edit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Edit" />
   </component>
 </project>
