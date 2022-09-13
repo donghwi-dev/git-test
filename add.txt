@@ -1,5 +1,3 @@
 add
-edited in local
-addTo
-remote
+수정기여
 local
